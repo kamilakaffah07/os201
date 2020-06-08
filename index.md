@@ -9,10 +9,10 @@ Halaman utama ini berisi penjelasan:
 * Bagaimana : Website ini dibuat dengan GitHub themes
 * Dimana : Saya mengerjakan website ini di rumah
 
-## Menu
 
-[Tautan Bermanfaat Seputar Sistem Operasi(OS)](URLs/)
+## Menu
+[Tautan Bermanfaat Seputar Sistem Operasi(OS)](https://kamilakaffah07.github.io/os201/URLs)
+
 
 ### My Github Account
-
 Click [here](https://github.com/kamilakaffah07/os201) to see my code
