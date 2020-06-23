@@ -1,35 +1,35 @@
 Script started on Tue 09 Jun 2020 12:21:05 AM WIB
-kamila.kaffah@badak:~$ PS1="$ "
+]0;kamila.kaffah@badak: ~kamila.kaffah@badak:~$ PS1="$ "
 $ echo $GitHubUser
 kamilakaffah07
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-$ eval $PSTAMP
-200609-002206-4bed-kamila.kaffah/>
+$ [K$ eval $PSTAMP
+200609-002206-4bed-kamila.kaffah/> 
 $ PS1="\$(eval \$PSTAMP)"
 200609-002212-544e-kamila.kaffah/> echo -e $CEKSAYA
-kamilakaffah07 ZCZCSCRIPTSTART 200603-224719 kamilakaffah07
- kamilakaffah07 kamilakaffah07 200603-224809-7bd0-kamila.kaffah/ 200603-224809 SEQOK SUMOK 7bd05b2f
- kamilakaffah07 kamilakaffah07 200603-224819-d86d-kamila.kaffah/ 200603-224819 SEQOK SUMOK d86d4bcd
- kamilakaffah07 kamilakaffah07 200603-224946-d697-kamila.kaffah/ 200603-224946 SEQOK SUMOK d6970388
- kamilakaffah07 kamilakaffah07 200603-225101-e33f-kamila.kaffah/ 200603-225101 SEQOK SUMOK e33f29dd
- kamilakaffah07 ZCZCSCRIPTSTOP 200603-225143 SEQOK
+kamilakaffah07 ZCZCSCRIPTSTART 200603-224719 kamilakaffah07 
+ kamilakaffah07 kamilakaffah07 200603-224809-7bd0-kamila.kaffah/ 200603-224809 SEQOK SUMOK 7bd05b2f 
+ kamilakaffah07 kamilakaffah07 200603-224819-d86d-kamila.kaffah/ 200603-224819 SEQOK SUMOK d86d4bcd 
+ kamilakaffah07 kamilakaffah07 200603-224946-d697-kamila.kaffah/ 200603-224946 SEQOK SUMOK d6970388 
+ kamilakaffah07 kamilakaffah07 200603-225101-e33f-kamila.kaffah/ 200603-225101 SEQOK SUMOK e33f29dd 
+ kamilakaffah07 ZCZCSCRIPTSTOP 200603-225143 SEQOK 
 
 200609-002219-20e6-kamila.kaffah/> echo -e $CEKSEBELA1
-kamilakaffah07 ZCZCSCRIPTSTART 200604-195611 keziasulami
- kamilakaffah07 keziasulami 200604-200515-a3a3-kezia.sulami/ 200604-200515 SEQOK SUMOK a3a30d91
- kamilakaffah07 keziasulami 200604-200700-c19f-kezia.sulami/ 200604-200700 SEQOK SUMOK c19fe545
- kamilakaffah07 keziasulami 200604-200812-233a-kezia.sulami/ 200604-200812 SEQOK SUMOK 233a8679
- kamilakaffah07 keziasulami 200604-200845-32cc-kezia.sulami/ 200604-200845 SEQOK SUMOK 32cc0d98
- kamilakaffah07 ZCZCSCRIPTSTOP 200604-200917 SEQOK
+kamilakaffah07 ZCZCSCRIPTSTART 200604-195611 keziasulami 
+ kamilakaffah07 keziasulami 200604-200515-a3a3-kezia.sulami/ 200604-200515 SEQOK SUMOK a3a30d91 
+ kamilakaffah07 keziasulami 200604-200700-c19f-kezia.sulami/ 200604-200700 SEQOK SUMOK c19fe545 
+ kamilakaffah07 keziasulami 200604-200812-233a-kezia.sulami/ 200604-200812 SEQOK SUMOK 233a8679 
+ kamilakaffah07 keziasulami 200604-200845-32cc-kezia.sulami/ 200604-200845 SEQOK SUMOK 32cc0d98 
+ kamilakaffah07 ZCZCSCRIPTSTOP 200604-200917 SEQOK 
 
 200609-002232-e12b-kamila.kaffah/> echo -e $CEKSEBELA2
-kamilakaffah07 ZCZCSCRIPTSTART 200607-213320 khadijahrizqy
- kamilakaffah07 khadijahrizqy 200607-213904-486e-UAS/ 200607-213904 SEQOK SUMOK 486ea0f2
- kamilakaffah07 khadijahrizqy 200607-213915-97df-UAS/ 200607-213915 SEQOK SUMOK 97df355e
- kamilakaffah07 khadijahrizqy 200607-213919-e360-UAS/ 200607-213919 SEQOK SUMOK e3601596
- kamilakaffah07 khadijahrizqy 200607-213928-74ea-UAS/ 200607-213928 SEQOK SUMOK 74ea3fb5
- kamilakaffah07 ZCZCSCRIPTSTOP 200607-214140 SEQOK
+kamilakaffah07 ZCZCSCRIPTSTART 200607-213320 khadijahrizqy 
+ kamilakaffah07 khadijahrizqy 200607-213904-486e-UAS/ 200607-213904 SEQOK SUMOK 486ea0f2 
+ kamilakaffah07 khadijahrizqy 200607-213915-97df-UAS/ 200607-213915 SEQOK SUMOK 97df355e 
+ kamilakaffah07 khadijahrizqy 200607-213919-e360-UAS/ 200607-213919 SEQOK SUMOK e3601596 
+ kamilakaffah07 khadijahrizqy 200607-213928-74ea-UAS/ 200607-213928 SEQOK SUMOK 74ea3fb5 
+ kamilakaffah07 ZCZCSCRIPTSTOP 200607-214140 SEQOK 
 
 200609-002241-b0e0-kamila.kaffah/> exit
 exit
